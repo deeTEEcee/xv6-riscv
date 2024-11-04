@@ -693,3 +693,7 @@ procdump(void)
     printf("\n");
   }
 }
+
+int dummy() {
+    return 1;
+}

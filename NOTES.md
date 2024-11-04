@@ -13,7 +13,7 @@ TODO but look through:
 
 And the pattern seems to be
 * Implement in sysproc.c
-* Implement in proc.c
+* Implement in proc.c + defs.h
 
 where sysproc.c is an interface to calling proc.c
 

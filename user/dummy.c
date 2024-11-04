@@ -4,6 +4,5 @@
 int
 main(int argc, char *argv[])
 {
-    printf("Exiting 1\n");
-    exit(5);
+    printf("Exiting %d\n", dummy());
 }
